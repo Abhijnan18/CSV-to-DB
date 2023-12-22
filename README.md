@@ -73,5 +73,3 @@ SELECT * FROM student_marks;
 
 - Replace placeholders (`your_csv_file.csv`, `your_username`, etc.) with actual details.
 - Do not include sensitive information in this `README.md` file.
-
-```
