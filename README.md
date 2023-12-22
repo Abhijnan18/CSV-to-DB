@@ -74,6 +74,9 @@ SELECT * FROM student_marks;
 - Replace placeholders (`your_csv_file.csv`, `your_username`, etc.) with actual details.
 - Do not include sensitive information in this `README.md` file.
 
+#Screen-Shot of the Result
+
+![Screenshot 2023-12-22 at 4 16 27 PM](https://github.com/Abhijnan18/CSV-to-DB/assets/114734468/7cd91b6c-134c-4a97-980b-d54af074490a)
 
 
 
