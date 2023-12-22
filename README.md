@@ -60,7 +60,7 @@ CREATE TABLE student_marks (
 ### MySQL Command-Line Interface
 
 ```bash
-mysql -u your_username -p -h Abhijnans-MacBook-Pro.local studentdetials
+mysql -u your_username -p -h localhost studentdetials
 ```
 
 Enter your password, then run:
@@ -73,3 +73,7 @@ SELECT * FROM student_marks;
 
 - Replace placeholders (`your_csv_file.csv`, `your_username`, etc.) with actual details.
 - Do not include sensitive information in this `README.md` file.
+
+
+
+
