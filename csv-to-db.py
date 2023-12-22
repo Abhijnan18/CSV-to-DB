@@ -13,7 +13,7 @@ def create_mysql_connection():
     return connection, cursor
 
 # Read data from CSV file starting from row 4 with explicit column names
-csv_file_path = 'sample2.csv'
+csv_file_path = 'your_csv_file.csv'
 df = pd.read_csv(csv_file_path, skiprows=3, usecols=['Students Name', 'IA I', 'IA 2'])
 
 # Replace 'AB' with NULL in IA marks columns
